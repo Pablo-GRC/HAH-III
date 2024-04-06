@@ -30,7 +30,7 @@ Columns correspond to:
 - min_i: minimum inclination
 - max_i: maximum inclination
 - MagCor_input: apparent magnitude in the filter used by HST for this image
-- coor_to_V_apparent: apparent magnitude corrected to V band
+- cor_to_V_apparent: apparent magnitude corrected to V band
 - H: absolute magnitude
 - H_lower/upper: uncertainty
 - chisq: chi square for trail fitting
