@@ -35,4 +35,6 @@ Columns correspond to:
 - H_lower/upper: uncertainty
 - chisq: chi square for trail fitting
 - size15: size in km calculated using a 0.15 albedo
-- 
+- size15_lower/upper: uncertainty
+- DorR: direct or reverse direction of motion for the asteroid (using HST image as a pixel array)
+- Tisserands_imin/imax: Tisserand's parameter calculated using i_min and i_max values
